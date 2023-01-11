@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "348592792955",
+    "project_id": "messageencryptionapp-2fe66",
+    "storage_bucket": "messageencryptionapp-2fe66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348592792955:android:9e2ed2942d9a97cc47c9de",
+        "android_client_info": {
+          "package_name": "com.example.encryption1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348592792955-9dtmsjucgee4439actr7jst2pbod0ddg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa82Fxycq3W7ygn19vuBpU-8iv6pJe9uo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348592792955-9dtmsjucgee4439actr7jst2pbod0ddg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
