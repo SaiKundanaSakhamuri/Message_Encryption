@@ -1,8 +1,4 @@
 # MESSAGE ENCRYPTION
-## TEAM MEMBERS
-[Chakradhar Prathivada](https://github.com/Chakri15099)<br>
-[Shruthi Patkur](https://github.com/pshruthi04)<br>
-[Sai Lakshmi Kundana Sakhamuri](https://github.com/kundanaSakhamuri98)<br>
 ## ABSTRACT
 Message Encryption is an Android  mobile application where a text  can be encrypted using different algorithms and can be sent over to another app user, where they can decrypt it with a shared key.<br>
 
@@ -73,15 +69,3 @@ Encryption for larger encryptions.<br>
 Providing user manual.<br>
 Ability to delete the read messages.<br>
 Pop Up notifications<br>
-
-
-
-
-
-
-
-
-
-
-
-
